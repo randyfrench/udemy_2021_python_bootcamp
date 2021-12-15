@@ -1,2 +1,2 @@
 # udemy_2021_python_bootcamp
-this is for 
+This is the repository for the Udemy course I am takeing for python. 
